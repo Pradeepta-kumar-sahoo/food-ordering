@@ -1,2 +1,7 @@
-# food-ordering
-The process consists of a customer choosing the restaurant of their choice, scanning the menu items, choosing an item, and finally choosing for pick-up or delivery. Payment is then administered by paying with a credit card or debit card through the app or website or in cash at the restaurant when going to pickup.
+### Responsive Restaurant website using Html, Css and JavaScript.
+
+### Images: ![Responsive Restaurant website](https://github.com/pattjoshi/Restaurant_HTML_CSS_JS.github.io/blob/main/restaurant-webpage.jpg)
+ 
+ #### Demo: [ visit my website](https://pattjoshi.github.io/Responsive_Restaurant_website/ "click to open")
+ 
+🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
